@@ -1,3 +1,4 @@
 ### Ignores ###
 data/*
 storage/*
+.idea/*
