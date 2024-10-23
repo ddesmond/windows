@@ -1,6 +1,6 @@
 services:
   windows:
-    image: dockurr/windows
+    image: d3smond/windows
     container_name: windows
     environment:
       RAM_SIZE: "6G"
