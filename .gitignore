@@ -1,1 +1,3 @@
-
+### Ignores ###
+data/*
+storage/*
